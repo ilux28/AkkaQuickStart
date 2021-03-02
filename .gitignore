@@ -1,0 +1,16 @@
+target/
+
+.settings
+.project
+.classpath
+
+.idea
+*.iml
+_
+#sbt-dist
+#null
+#.bsp
+project
+.metals
+.bloop
+
